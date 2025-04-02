@@ -7,6 +7,7 @@ Image Classification is a popular **Deep Learning (DL) and Machine Learning (ML)
 
 
 🔹 How It Works
+
 1️⃣ **User selects an image** from the gallery.  
 2️⃣ The app **feeds the image into a pre-trained TensorFlow Lite model** (e.g., MobileNet).  
 3️⃣ The model **analyzes the image and predicts the object** (e.g., "Dog - 95% confidence").  
@@ -14,6 +15,7 @@ Image Classification is a popular **Deep Learning (DL) and Machine Learning (ML)
 
 
 🔹 Why Use TensorFlow Lite (TFLite) 
+
 ✅ **Fast & Efficient:** Optimized for mobile devices.  
 ✅ **Offline Support:** No internet required.  
 ✅ **Low Latency:** Runs ML models in real-time.  
